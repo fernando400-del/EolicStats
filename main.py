@@ -380,6 +380,7 @@ with st.container(horizontal=True, gap="medium"):
             f"{weather_icons[weather_name]} {weather_name.upper()}",
         )
 
+
 ""
 ""
 
