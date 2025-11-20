@@ -52,6 +52,7 @@ top_left_cell = cols[0].container(
     border=True, height="stretch", vertical_alignment="center")
 
 
+
 with top_left_cell:
     # Selectbox for stock sensors
     sensors = st.multiselect(
